@@ -1,2 +1,8 @@
 # confluence
-create a VirtualEnv
+### create a VirtualEnv
+```
+python -m venv venv
+source bin\activate
+pip install -r requierements.txt
+python getPages.py
+```
